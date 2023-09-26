@@ -1,7 +1,7 @@
-/*file name : owl.caraousal.css
-Student name: Rachit Pandya
-Student id:301198260
-Date:2/10/2021*/
+// file name : owl.caraousal.css
+// Student name: Meet Patel
+// Student id: 301220141
+
 (function ($) {
     $.fn.extend({
         easyResponsiveTabs: function (options) {
